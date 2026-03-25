@@ -11,6 +11,9 @@
   <a href="mailto:weber12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-weber12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://www.linkedin.com/in/weberfern">
+    <img src="https://img.shields.io/badge/LinkedIn-weberfern-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=weberfern&style=for-the-badge&color=0e75b6" alt="Profile views" />
 </p>
 
