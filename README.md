@@ -1,7 +1,7 @@
-<h1 align="center">Ola, eu sou o Weber Fernandes</h1>
+<h1 align="center">Olá, eu sou o Weber Fernandes</h1>
 
 <p align="center">
-  Estudante de Analise e Desenvolvimento de Sistemas (UFCA) • Juazeiro do Norte - CE
+  Estudante de Análise e Desenvolvimento de Sistemas (UFCA) • Juazeiro do Norte - CE
 </p>
 
 <p align="center">
@@ -15,12 +15,16 @@
 
 ---
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding illustration" />
+<img align="right" width="330" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" alt="Dark coding illustration" />
 
 ### Sobre mim
-- Apaixonado por desenvolvimento web e resolucao de problemas
-- Focado em evoluir em JavaScript, TypeScript, React e Python
-- Buscando primeira oportunidade na area de tecnologia
+- Apaixonado por desenvolvimento web e resolução de problemas;
+- Focado em evoluir em JavaScript, TypeScript, React, C#, Unity Engine e Python;
+- Buscando a primeira oportunidade na área de tecnologia.
+
+### Objetivo atual
+- Construir projetos completos com foco em front-end moderno e back-end sólido;
+- Fortalecer portfólio com aplicações úteis e bem documentadas.
 
 ### Tecnologias
 <div align="left">
@@ -39,13 +43,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="csharp logo" />
 </div>
 
-### Estatisticas
+### Estatísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=weberfern&show_icons=true&theme=dracula&hide_border=true&count_private=false&include_all_commits=false&cache_seconds=86400" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weberfern&layout=compact&langs_count=6&theme=dracula&hide_border=true&cache_seconds=86400" height="160" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=weberfern&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weberfern&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" alt="Top languages" />
 </div>
 
 <br clear="both">
 
 ### Contribuicoes
-<img src="https://raw.githubusercontent.com/weberfern/weberfern/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/weberfern/weberfern/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
