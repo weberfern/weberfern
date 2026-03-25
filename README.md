@@ -11,6 +11,7 @@
   <a href="mailto:weber12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-weber12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=weberfern&style=for-the-badge&color=0e75b6" alt="Profile views" />
 </p>
 
 ---
@@ -51,5 +52,5 @@
 
 <br clear="both">
 
-### Contribuicoes
-<img src="https://raw.githubusercontent.com/weberfern/weberfern/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+### Contribuições
+<img src="https://cdn.jsdelivr.net/gh/weberfern/weberfern@output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
