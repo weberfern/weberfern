@@ -6,15 +6,17 @@
 
 <p align="center">
   <a href="https://github.com/weberfern">
-    <img src="https://img.shields.io/badge/GitHub-weberfern-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white&logoWidth=20" alt="GitHub" />
   </a>
   <a href="mailto:weber12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-weber12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white&logoWidth=20" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/weberfern">
-    <img src="https://img.shields.io/badge/LinkedIn-weberfern-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=weberfern&style=for-the-badge&color=0e75b6" alt="Profile views" />
+  <a href="https://discord.com/users/weberfern#6003">
+    <img src="https://img.shields.io/badge/-5865F2?style=flat-square&logo=discord&logoColor=white&logoWidth=20" alt="Discord" />
+  </a>
 </p>
 
 ---
